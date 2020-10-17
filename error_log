@@ -1,0 +1,395 @@
+[01-Oct-2019 04:36:24 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/csiddysz/public_html/db_connect.php:21
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(120): include()
+#1 {main}
+  thrown in /home/csiddysz/public_html/db_connect.php on line 21
+[01-Oct-2019 04:36:35 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/csiddysz/public_html/db_connect.php:21
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(120): include()
+#1 {main}
+  thrown in /home/csiddysz/public_html/db_connect.php on line 21
+[01-Oct-2019 04:36:39 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/csiddysz/public_html/db_connect.php:21
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(120): include()
+#1 {main}
+  thrown in /home/csiddysz/public_html/db_connect.php on line 21
+[01-Oct-2019 04:45:59 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/csiddysz/public_html/db_connect.php:21
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(120): include()
+#1 {main}
+  thrown in /home/csiddysz/public_html/db_connect.php on line 21
+[01-Oct-2019 04:54:37 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'csiddysz'@'localhost' (using password: NO) in /home/csiddysz/public_html/db_connect.php:21
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(120): include()
+#1 {main}
+  thrown in /home/csiddysz/public_html/db_connect.php on line 21
+[01-Oct-2019 04:54:40 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'csiddysz'@'localhost' (using password: NO) in /home/csiddysz/public_html/db_connect.php:21
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(120): include()
+#1 {main}
+  thrown in /home/csiddysz/public_html/db_connect.php on line 21
+[01-Oct-2019 04:54:47 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'csiddysz'@'localhost' (using password: NO) in /home/csiddysz/public_html/db_connect.php:21
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(120): include()
+#1 {main}
+  thrown in /home/csiddysz/public_html/db_connect.php on line 21
+[01-Oct-2019 04:54:56 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'csiddysz'@'localhost' (using password: NO) in /home/csiddysz/public_html/db_connect.php:21
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(120): include()
+#1 {main}
+  thrown in /home/csiddysz/public_html/db_connect.php on line 21
+[01-Oct-2019 04:54:59 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'csiddysz'@'localhost' (using password: NO) in /home/csiddysz/public_html/db_connect.php:21
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(120): include()
+#1 {main}
+  thrown in /home/csiddysz/public_html/db_connect.php on line 21
+[01-Oct-2019 04:57:31 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'csiddysz'@'localhost' (using password: NO) in /home/csiddysz/public_html/db_connect.php:21
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(120): include()
+#1 {main}
+  thrown in /home/csiddysz/public_html/db_connect.php on line 21
+[01-Oct-2019 04:58:19 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'csiddysz'@'localhost' (using password: NO) in /home/csiddysz/public_html/db_connect.php:21
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(120): include()
+#1 {main}
+  thrown in /home/csiddysz/public_html/db_connect.php on line 21
+[01-Oct-2019 04:58:25 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'csiddysz'@'localhost' (using password: NO) in /home/csiddysz/public_html/db_connect.php:21
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(120): include()
+#1 {main}
+  thrown in /home/csiddysz/public_html/db_connect.php on line 21
+[01-Oct-2019 05:00:24 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 05:00:31 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 05:00:36 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 05:00:39 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 05:00:43 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 05:00:48 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 05:00:54 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 05:01:10 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 05:01:34 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 05:01:39 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 05:02:39 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 05:03:18 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 05:03:24 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 05:12:10 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 05:12:14 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 05:12:17 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 05:16:34 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'csiddysz_admin'@'localhost' to database 'csiddysz_csi' in /home/csiddysz/public_html/db_connect.php:21
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(120): include()
+#1 {main}
+  thrown in /home/csiddysz/public_html/db_connect.php on line 21
+[01-Oct-2019 05:16:37 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'csiddysz_admin'@'localhost' to database 'csiddysz_csi' in /home/csiddysz/public_html/db_connect.php:21
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(120): include()
+#1 {main}
+  thrown in /home/csiddysz/public_html/db_connect.php on line 21
+[01-Oct-2019 05:16:40 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'csiddysz_admin'@'localhost' to database 'csiddysz_csi' in /home/csiddysz/public_html/db_connect.php:21
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(120): include()
+#1 {main}
+  thrown in /home/csiddysz/public_html/db_connect.php on line 21
+[01-Oct-2019 05:16:50 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'csiddysz_admin'@'localhost' to database 'csiddysz_csi' in /home/csiddysz/public_html/db_connect.php:21
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(120): include()
+#1 {main}
+  thrown in /home/csiddysz/public_html/db_connect.php on line 21
+[01-Oct-2019 05:16:53 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'csiddysz_admin'@'localhost' to database 'csiddysz_csi' in /home/csiddysz/public_html/db_connect.php:21
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(120): include()
+#1 {main}
+  thrown in /home/csiddysz/public_html/db_connect.php on line 21
+[01-Oct-2019 05:17:02 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'csiddysz_admin'@'localhost' to database 'csiddysz_csi' in /home/csiddysz/public_html/db_connect.php:21
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(120): include()
+#1 {main}
+  thrown in /home/csiddysz/public_html/db_connect.php on line 21
+[01-Oct-2019 08:42:40 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'csiddysz_admin'@'localhost' to database 'csiddysz_csi' in /home/csiddysz/public_html/db_connect.php:21
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(120): include()
+#1 {main}
+  thrown in /home/csiddysz/public_html/db_connect.php on line 21
+[01-Oct-2019 08:42:47 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'csiddysz_admin'@'localhost' to database 'csiddysz_csi' in /home/csiddysz/public_html/db_connect.php:21
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(120): include()
+#1 {main}
+  thrown in /home/csiddysz/public_html/db_connect.php on line 21
+[01-Oct-2019 08:44:36 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'csiddysz_admin'@'localhost' to database 'csiddysz_csi' in /home/csiddysz/public_html/db_connect.php:21
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(120): include()
+#1 {main}
+  thrown in /home/csiddysz/public_html/db_connect.php on line 21
+[01-Oct-2019 08:45:53 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'csiddysz_admin'@'localhost' to database 'csiddysz_csi' in /home/csiddysz/public_html/db_connect.php:21
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(120): include()
+#1 {main}
+  thrown in /home/csiddysz/public_html/db_connect.php on line 21
+[01-Oct-2019 08:45:57 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'csiddysz_admin'@'localhost' to database 'csiddysz_csi' in /home/csiddysz/public_html/db_connect.php:21
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(120): include()
+#1 {main}
+  thrown in /home/csiddysz/public_html/db_connect.php on line 21
+[01-Oct-2019 08:46:00 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'csiddysz_admin'@'localhost' to database 'csiddysz_csi' in /home/csiddysz/public_html/db_connect.php:21
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(120): include()
+#1 {main}
+  thrown in /home/csiddysz/public_html/db_connect.php on line 21
+[01-Oct-2019 08:46:03 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'csiddysz_admin'@'localhost' to database 'csiddysz_csi' in /home/csiddysz/public_html/db_connect.php:21
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(120): include()
+#1 {main}
+  thrown in /home/csiddysz/public_html/db_connect.php on line 21
+[01-Oct-2019 08:48:17 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 08:48:32 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 08:48:36 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 08:48:42 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 08:49:18 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 08:49:21 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/events.php:153
+Stack trace:
+#0 /home/csiddysz/public_html/events.php(153): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/events.php on line 153
+[01-Oct-2019 08:50:01 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 08:50:05 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 08:50:07 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/events.php:153
+Stack trace:
+#0 /home/csiddysz/public_html/events.php(153): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/events.php on line 153
+[01-Oct-2019 08:50:10 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/events.php:153
+Stack trace:
+#0 /home/csiddysz/public_html/events.php(153): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/events.php on line 153
+[01-Oct-2019 08:50:11 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/events.php:153
+Stack trace:
+#0 /home/csiddysz/public_html/events.php(153): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/events.php on line 153
+[01-Oct-2019 08:50:13 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 08:50:15 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 08:50:17 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/events.php:153
+Stack trace:
+#0 /home/csiddysz/public_html/events.php(153): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/events.php on line 153
+[01-Oct-2019 08:51:32 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 09:06:26 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 09:16:28 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/events.php:153
+Stack trace:
+#0 /home/csiddysz/public_html/events.php(153): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/events.php on line 153
+[01-Oct-2019 09:17:05 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/events.php:153
+Stack trace:
+#0 /home/csiddysz/public_html/events.php(153): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/events.php on line 153
+[01-Oct-2019 09:18:17 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 09:18:20 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 09:18:27 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 09:25:34 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 09:25:37 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 09:25:40 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/events.php:153
+Stack trace:
+#0 /home/csiddysz/public_html/events.php(153): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/events.php on line 153
+[01-Oct-2019 09:30:16 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 09:30:19 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 09:34:31 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:123
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(123): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 123
+[01-Oct-2019 09:40:25 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:123
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(123): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 123
+[01-Oct-2019 09:40:42 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 09:40:55 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 10:03:04 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 10:03:18 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/events.php:153
+Stack trace:
+#0 /home/csiddysz/public_html/events.php(153): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/events.php on line 153
+[01-Oct-2019 10:03:56 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/events.php:153
+Stack trace:
+#0 /home/csiddysz/public_html/events.php(153): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/events.php on line 153
+[01-Oct-2019 10:04:13 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 10:04:16 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/events.php:153
+Stack trace:
+#0 /home/csiddysz/public_html/events.php(153): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/events.php on line 153
+[01-Oct-2019 10:04:19 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/index.php:122
+Stack trace:
+#0 /home/csiddysz/public_html/index.php(122): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/index.php on line 122
+[01-Oct-2019 10:04:25 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/events.php:153
+Stack trace:
+#0 /home/csiddysz/public_html/events.php(153): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/events.php on line 153
+[01-Oct-2019 10:09:22 Etc/GMT] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'csiddysz_csi.Event_master' doesn't exist in /home/csiddysz/public_html/events.php:153
+Stack trace:
+#0 /home/csiddysz/public_html/events.php(153): PDO->query('SELECT * from E...')
+#1 {main}
+  thrown in /home/csiddysz/public_html/events.php on line 153
