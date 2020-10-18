@@ -2,13 +2,14 @@
 //establishes database connections and returns PDO variable named 'pdo'.
 //use $pdo for accessing database.
 
-$host = '127.0.0.1';
+$host = 'localhost';
 $db   = 'csiddysz_csi';
-$user = 'csiddysz';
-$pass = 'Tvr@#1125120';
+$user = 'root';
+$pass = 'dhruval';
+$port = 3307;
 $charset = 'utf8mb4';
 
-$dsn = "mysql:host=$host;dbname=$db;charset=$charset";
+$dsn = "mysql:host=$host;dbname=$db;charset=$charset;port=$port";
 $options = [
     PDO::ATTR_ERRMODE            => PDO::ERRMODE_EXCEPTION,
     PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,

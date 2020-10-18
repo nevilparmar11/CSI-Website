@@ -26,11 +26,11 @@
   <link rel="stylesheet" href="css/aos.css">
 
   <link rel="stylesheet" href="css/style.css">
-
+  
 
 
 </head>
-
+ 
 <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
 
 
@@ -63,9 +63,189 @@
         </div>
       </div>
     </div>
+    <section class="site-section">
+      <div class="container">
+        <div class="row">
+            <div class="col-md-3 mb-4" >
+                <img src="images/spssir.jpg" class="card-img-top" alt="...">
+                <div class="card-body text-center">
+                  <div class="card border-0 shadow">
+                    <h5 class="card-title mb-0" style="font-size:18px;">Prof. Siddharth P. Shah</h5>
+                    <div class="card-text text-black-50">Counsellor & Mentor
+                      <p>
+                        <a href="#"><span class="fa fa-facebook-square"></span></a>
+                        <a href="#"><span class="fa fa-instagram"></span></a>
+                        <a href="#"><span class="fa fa-linkedin-square"></span></a>
+                        <a href="#"><span class="fa fa-github-square"></span></a>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row">
+        <div class="col-md-3 mb-4">
+        	<div class="card border-0 shadow">
+          		<img src="images/priya_tr_igstory-01.jpg" class="card-img-top" alt="...">
+          		<div class="card-body text-center">
+            		<h5 class="card-title mb-0" style="font-size:18px;">Priyavardhan Panchal</h5>
+            		<div class="card-text text-black-50">President<p><a href="#"><span class="fa fa-facebook-square"></span></a>
+                  <a href="#"><span class="fa fa-instagram"></span></a>
+                  <a href="#"><span class="fa fa-linkedin-square"></span></a>
+                  <a href="#"><span class="fa fa-github-square"></span></a></p>
+                </div>
+	          	</div>
+	        </div>
+	      </div>
+        <div class="col-md-3 mb-4">
+        	<div class="card border-0 shadow">
+          		<img src="images/hp_tr_igstory-01.jpg" class="card-img-top" alt="...">
+          		<div class="card-body text-center">
+            		<h5 class="card-title mb-0" style="font-size:18px;">Hetvi Purohit</h5>
+            		<div class="card-text text-black-50">Vice President<p><a href="#"><span class="fa fa-facebook-square"></span></a>
+                  <a href="#"><span class="fa fa-instagram"></span></a>
+                  <a href="#"><span class="fa fa-linkedin-square"></span></a>
+                  <a href="#"><span class="fa fa-github-square"></span></a></p>
+                </div>
+	          	</div>
+	        </div>
+	      </div>
+        <div class="col-md-3 mb-4">
+        	<div class="card border-0 shadow">
+          		<img src="images/vishesh_tr_igstory-01.jpg" class="card-img-top" alt="...">
+          		<div class="card-body text-center">
+            		<h5 class="card-title mb-0" style="font-size:18px;">Vishesh Waghela</h5>
+            		<div class="card-text text-black-50">Secretary<p><a href="#"><span class="fa fa-facebook-square"></span></a>
+                  <a href="#"><span class="fa fa-instagram"></span></a>
+                  <a href="#"><span class="fa fa-linkedin-square"></span></a>
+                  <a href="#"><span class="fa fa-github-square"></span></a></p>
+                </div>
+	          	</div>
+	        </div>
+	      </div>
+        <div class="col-md-3 mb-4">
+        	<div class="card border-0 shadow">
+          		<img src="images/nevil_tr_igstory-01.jpg" class="card-img-top" alt="...">
+          		<div class="card-body text-center">
+            		<h5 class="card-title mb-0" style="font-size:18px;">Nevil Parmar</h5>
+            		<div class="card-text text-black-50">Head of Technical<p><a href="#"><span class="fa fa-facebook-square"></span></a>
+                  <a href="#"><span class="fa fa-instagram"></span></a>
+                  <a href="#"><span class="fa fa-linkedin-square"></span></a>
+                  <a href="#"><span class="fa fa-github-square"></span></a></p>
+                </div>
+	          	</div>
+	        </div>
+	      </div><div class="col-md-3 mb-4">
+        	<div class="card border-0 shadow">
+          		<img src="images/devanshee_tr_igstory-01.jpg" class="card-img-top" alt="...">
+          		<div class="card-body text-center">
+            		<h5 class="card-title mb-0" style="font-size:18px;">Devanshee vankani</h5>
+            		<div class="card-text text-black-50">Head of Management<p><a href="#"><span class="fa fa-facebook-square"></span></a>
+                  <a href="#"><span class="fa fa-instagram"></span></a>
+                  <a href="#"><span class="fa fa-linkedin-square"></span></a>
+                  <a href="#"><span class="fa fa-github-square"></span></a></p>
+                </div>
+	          	</div>
+	        </div>
+	      </div>
+        
+        <div class="col-md-3 mb-4">
+        	<div class="card border-0 shadow">
+          		<img src="images/naiya_tr_igstory-01.jpg" class="card-img-top" alt="...">
+          		<div class="card-body text-center">
+            		<h5 class="card-title mb-0" style="font-size:18px;">Naiya Prajapati</h5>
+            		<div class="card-text text-black-50">Head of Finance<p><a href="#"><span class="fa fa-facebook-square"></span></a>
+                  <a href="#"><span class="fa fa-instagram"></span></a>
+                  <a href="#"><span class="fa fa-linkedin-square"></span></a>
+                  <a href="#"><span class="fa fa-github-square"></span></a></p>
+                </div>
+	          	</div>
+	        </div>
+	      </div><div class="col-md-3 mb-4">
+        	<div class="card border-0 shadow">
+          		<img src="images/mitsu_tr_igstory-01.jpg" class="card-img-top" alt="...">
+          		<div class="card-body text-center">
+            		<h5 class="card-title mb-0" style="font-size:18px;">Mitsu Kansagara</h5>
+            		<div class="card-text text-black-50">Head of Content-Writer<p><a href="#"><span class="fa fa-facebook-square"></span></a>
+                  <a href="#"><span class="fa fa-instagram"></span></a>
+                  <a href="#"><span class="fa fa-linkedin-square"></span></a>
+                  <a href="#"><span class="fa fa-github-square"></span></a></p>
+                </div>
+	          	</div>
+	        </div>
+	      </div><div class="col-md-3 mb-4">
+        	<div class="card border-0 shadow">
+          		<img src="images/dhruval_tr_igstory-01.jpg" class="card-img-top" alt="...">
+          		<div class="card-body text-center">
+            		<h5 class="card-title mb-0" style="font-size:18px;">Dhruval Gandhi</h5>
+            		<div class="card-text text-black-50">Dept. Head of Technical<p><a href="#"><span class="fa fa-facebook-square"></span></a>
+                  <a href="#"><span class="fa fa-instagram"></span></a>
+                  <a href="#"><span class="fa fa-linkedin-square"></span></a>
+                  <a href="#"><span class="fa fa-github-square"></span></a></p>
+                </div>
+	          	</div>
+	        </div>
+	      </div>
+        <div class="col-md-3 mb-4">
+        	<div class="card border-0 shadow">
+          		<img src="images/twiency_tr_igstory-01.jpg" class="card-img-top" alt="...">
+          		<div class="card-body text-center">
+            		<h5 class="card-title mb-0" style="font-size:18px;">Twiency Korat</h5>
+            		<div class="card-text text-black-50">Dept. Head of Management<p><a href="#"><span class="fa fa-facebook-square"></span></a>
+                  <a href="#"><span class="fa fa-instagram"></span></a>
+                  <a href="#"><span class="fa fa-linkedin-square"></span></a>
+                  <a href="#"><span class="fa fa-github-square"></span></a></p>
+                </div>
+	          	</div>
+	        </div>
+	      </div>
+        <div class="col-md-3 mb-4">
+        	<div class="card border-0 shadow">
+          		<img src="images/darshil_tr_igstory-01.jpg" class="card-img-top" alt="...">
+          		<div class="card-body text-center">
+            		<h5 class="card-title mb-0" style="font-size:18px;">Darshil Shah</h5>
+            		<div class="card-text text-black-50">Executive<p><a href="#"><span class="fa fa-facebook-square"></span></a>
+                  <a href="#"><span class="fa fa-instagram"></span></a>
+                  <a href="#"><span class="fa fa-linkedin-square"></span></a>
+                  <a href="#"><span class="fa fa-github-square"></span></a></p>
+                </div>
+	          	</div>
+	        </div>
+	      </div>
+        <div class="col-md-3 mb-4">
+        	<div class="card border-0 shadow">
+          		<img src="images/hussain_tr_igstory-01.jpg" class="card-img-top" alt="...">
+          		<div class="card-body text-center">
+            		<h5 class="card-title mb-0" style="font-size:18px;">Hussain Ashara</h5>
+            		<div class="card-text text-black-50">Executive<p><a href="#"><span class="fa fa-facebook-square"></span></a>
+                  <a href="#"><span class="fa fa-instagram"></span></a>
+                  <a href="#"><span class="fa fa-linkedin-square"></span></a>
+                  <a href="#"><span class="fa fa-github-square"></span></a></p>
+                </div>
+	          	</div>
+	        </div>
+	      </div><div class="col-md-3 mb-4">
+        	<div class="card border-0 shadow">
+          		<img src="images/deep_tr_igstory-01.jpg" class="card-img-top" alt="...">
+          		<div class="card-body text-center">
+            		<h5 class="card-title mb-0" style="font-size:18px;">Deep Lad</h5>
+            		<div class="card-text text-black-50">Executive<p><a href="#"><span class="fa fa-facebook-square"></span></a>
+                  <a href="#"><span class="fa fa-instagram"></span></a>
+                  <a href="#"><span class="fa fa-linkedin-square"></span></a>
+                  <a href="#"><span class="fa fa-github-square"></span></a></p>
+                </div>
+	          	</div>
+	        </div>
+	      </div>
+      </div>
+    </section>
+    <a href="#past_committee19" class="form-control mx-auto w-75" align="center" style="background-color:#79799A ;" data-toggle="collapse"><b><font color="white">Past-Committee 18-20</font></b></a>
 
-
-
+    <div id="past_committee19"class="collapse">
+    
     <section class="site-section">
       <div class="container">
         <div class="row">
@@ -367,8 +547,8 @@
 
     </section>
 
-<a href="#past_committee" class="form-control mx-auto w-75" align="center" style="background-color:#79799A ;" data-toggle="collapse"><b><font color="white">Past-Committee</font></b></a>
-
+    <a href="#past_committee" class="form-control mx-auto w-75" align="center" style="background-color:#79799A ;" data-toggle="collapse"><b><font color="white">Past-Committee</font></b></a>
+    </div>
   <div id="past_committee" class="collapse">
      <section class="site-section">
       <div class="container">
@@ -641,13 +821,13 @@
           <a href="#"><span class="fa fa-instagram"></span></a>
           <a href="#"><span class="fa fa-linkedin-square"></span></a>
           <a href="#"><span class="fa fa-github-square"></span></a></p></div>
-              </div>
-          </div>
+            </div>
         </div>
-        </section>
+      </div>
+    </section>
 
 
-        <a href="#past_committee15" class="form-control mx-auto w-75" align="center" style="background-color:#79799A ;" data-toggle="collapse"><b><font color="white">Past-Committee 15-17</font></b></a>
+  <a href="#past_committee15" class="form-control mx-auto w-75" align="center" style="background-color:#79799A ;" data-toggle="collapse"><b><font color="white">Past-Committee 15-17</font></b></a>
 
   <div id="past_committee15" class="collapse">
      <section class="site-section">
@@ -815,13 +995,13 @@
       
 
 
-	<?php include("footer.php"); ?>
-
+   <?php include("footer.php"); ?>
   </div> <!-- .site-wrap -->
-
-  <script src="js/jquery-3.3.1.min.js"></script>
+  
   <script src="js/jquery-ui.js"></script>
   <script src="js/popper.min.js"></script>
+  
+  <script src="js/jquery-3.3.1.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
   <script src="js/owl.carousel.min.js"></script>
   <script src="js/jquery.countdown.min.js"></script>

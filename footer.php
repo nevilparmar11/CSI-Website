@@ -8,8 +8,8 @@
 				</div>
 				<div class="col-md-3">
 					<h2 class="footer-heading mb-4">Contact Us</h2>
-					<p class="text-white">Vivek Shah : <br><a href="tel:+918849236413" style="text-decoration:none">+91 88492 36413</a></p>
-					<p class="text-white">Mrugnayani Lankapati : <br><a href="tel:+916355936811" style="text-decoration:none">+91 63559 36811</a></p>
+					<p class="text-white">Priyavardhan Panchal : <br><a href="tel:+919724810243" style="text-decoration:none">+91 88492 36413</a></p>
+					<p class="text-white">Hetvi Purohit : <br><a href="tel:+919428404192" style="text-decoration:none">+91 63559 36811</a></p>
 				</div>
 				<div class="col-md-2">
 					<h2 class="footer-heading mb-4">Quick Links</h2>
@@ -51,7 +51,7 @@
 		<div class="row mt-1 pt-1 text-center">
 			<div class="col-md-12">
 				<div class="border-top pt-3">
-					<p> Copyright &copy; 2019 | Designed & Developed by CSI DDU Student Branch </p>
+					<p> Copyright &copy; 2020 | Designed & Developed by CSI DDU Student Branch </p>
 				</div>
 			</div>
 		</div>
