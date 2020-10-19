@@ -142,7 +142,7 @@
         	<div class="card border-0 shadow">
           		<img src="images/devanshee_tr_igstory-01.jpg" class="card-img-top" alt="...">
           		<div class="card-body text-center">
-            		<h5 class="card-title mb-0" style="font-size:18px;">Devanshee vankani</h5>
+            		<h5 class="card-title mb-0" style="font-size:18px;">Devanshee Vankani</h5>
             		<div class="card-text text-black-50">Head of Management<p><a href="#"><span class="fa fa-facebook-square"></span></a>
                   <a href="#"><span class="fa fa-instagram"></span></a>
                   <a href="#"><span class="fa fa-linkedin-square"></span></a>
@@ -169,7 +169,7 @@
           		<img src="images/mitsu_tr_igstory-01.jpg" class="card-img-top" alt="...">
           		<div class="card-body text-center">
             		<h5 class="card-title mb-0" style="font-size:18px;">Mitsu Kansagara</h5>
-            		<div class="card-text text-black-50">Head of Content-Writer<p><a href="#"><span class="fa fa-facebook-square"></span></a>
+            		<div class="card-text text-black-50">Head of Content-Writing<p><a href="#"><span class="fa fa-facebook-square"></span></a>
                   <a href="#"><span class="fa fa-instagram"></span></a>
                   <a href="#"><span class="fa fa-linkedin-square"></span></a>
                   <a href="#"><span class="fa fa-github-square"></span></a></p>

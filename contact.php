@@ -92,7 +92,7 @@
 
           <div class="col-md-12 mt-lg-5 text-center">
             <h1 class="mb-4">Get In Touch</h1>
-            <p class="desc mb-4">Have a question about linear regression? <br>Build a amazing app and want to show it?<br>Or you just want to talk? We love discussing new ideas!</p>
+            <p class="desc mb-4">Have a question about linear regression? <br>Built an amazing app and want to show it?<br>Or you just want to talk? We love discussing new ideas!</p>
 
 			<a href="#contact_form" class="btn  btn-primary mr-2 mb-2 mt-3">Fill the form below</a>
 
@@ -115,7 +115,7 @@
 	  		<div class="col-md-4 text-center">
 				<p class="mb-4">
 		  			<span class="icon-phone d-block h2 text-primary"></span>
-		  			<a href="#"> Priyavarddhan Panchal : +91 97248 10243 <br>Hetvi Purohit : +91 94284 04192</a>
+		  			<a href="#"> Priyavardhan Panchal : +91 97248 10243 <br>Hetvi Purohit : +91 94284 04192</a>
 				</p>
 	  		</div>
 	  		<div class="col-md-4 text-center">
