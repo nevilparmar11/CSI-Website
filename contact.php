@@ -115,13 +115,13 @@
 	  		<div class="col-md-4 text-center">
 				<p class="mb-4">
 		  			<span class="icon-phone d-block h2 text-primary"></span>
-		  			<a href="#"> Vivek : +91 88492 36413 <br>Mrugnayani Lankapati : +91 63559 36811</a>
+		  			<a href="#"> Priyavarddhan Panchal : +91 97248 10243 <br>Hetvi Purohit : +91 94284 04192</a>
 				</p>
 	  		</div>
 	  		<div class="col-md-4 text-center">
 				<p class="mb-0">
 		  			<span class="icon-mail_outline d-block h2 text-primary"></span>
-		  			<a href="#">info@csiddu.in
+		  			<a href="#">csiddu2020@gmail.com
 </a>
 				</p>
 	  		</div>

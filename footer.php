@@ -8,8 +8,8 @@
 				</div>
 				<div class="col-md-3">
 					<h2 class="footer-heading mb-4">Contact Us</h2>
-					<p class="text-white">Priyavardhan Panchal : <br><a href="tel:+919724810243" style="text-decoration:none">+91 88492 36413</a></p>
-					<p class="text-white">Hetvi Purohit : <br><a href="tel:+919428404192" style="text-decoration:none">+91 63559 36811</a></p>
+					<p class="text-white">Priyavardhan Panchal : <br><a href="tel:+919724810243" style="text-decoration:none">+91 97248 10243</a></p>
+					<p class="text-white">Hetvi Purohit : <br><a href="tel:+919428404192" style="text-decoration:none">+91 94284 04192</a></p>
 				</div>
 				<div class="col-md-2">
 					<h2 class="footer-heading mb-4">Quick Links</h2>

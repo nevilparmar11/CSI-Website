@@ -134,7 +134,8 @@
       Recent Events
     </button>
     <div class="dropdown-menu">
-      <a class="dropdown-item" href="events.php?year=2019">Recents</a>
+      <a class="dropdown-item" href="events.php?year=2020">Recents</a>
+      <a class="dropdown-item" href="events.php?year=2019">2019-2020</a>
       <a class="dropdown-item" href="events.php?year=2018">2018-2019</a>
       <a class="dropdown-item" href="events.php?year=2017">2017-2018</a>
     </div>
@@ -154,6 +155,10 @@
     
     if(isset($_GET["year"]))
     {
+      if($_GET["year"]==2020)
+        $sql = "SELECT * from event_master WHERE date BETWEEN '2020-07-01' AND '2021-06-30' ORDER BY date DESC";
+      if($_GET["year"]==2019)
+        $sql = "SELECT * from event_master WHERE date BETWEEN '2019-07-01' AND '2020-06-30' ORDER BY date DESC";
       if($_GET["year"]==2018)
         $sql = "SELECT * from event_master WHERE date BETWEEN '2018-07-01' AND '2019-06-30' ORDER BY date DESC";
       if($_GET["year"]==2017)
